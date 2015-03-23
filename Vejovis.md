@@ -1,0 +1,38 @@
+**MeMMoN** - Process memory monitoring tool for malware analysts.
+
+### Introduction ###
+A lot of anti-virus programs will heuristically pick up malware even if it was custom written. So the malicious hackers employ different ways of bypassing the anti-virus program by using programs such as packers/cryptors. To attack such bypassing malwares Vejovis was designed. It Monitors process modules in system memory for malicious infections.
+
+
+### Details ###
+
+The malware analysts waste lot of time in analyzing same malware variants protected by different packers.
+Vejovis saves malware analysts time by detecting known malware variants with new protection.
+Vejovis can also be used as a malware variant classification tool.
+Vejovis runs as a light weight thread consuming meagre resources.
+This tools works well against packed/protected/crypted executable malwares.
+
+### Signature Format ###
+
+Readme.txt contains syntax for signature format
+
+### System Requirement ###
+
+### Operating Systems ###
+  * Microsoft Windows XP Home Edition (Service Pack 2 or higher)
+  * Microsoft Windows XP Professional (Service Pack 2 or higher)
+  * Microsoft Windows XP Professional 64-bit Edition (Service Pack 2 or higher)
+  * Microsoft Windows Vista Home Basic (32/64-Bit)
+  * Microsoft Windows Vista Home Premium (32/64-Bit)
+  * Microsoft Windows Vista Business (32/64-Bit)
+  * Microsoft Windows Vista Enterprise (32/64-Bit)
+  * Microsoft Windows Vista Ultimate (32/64-Bit)
+  * Microsoft Windows 7 Starter
+  * Microsoft Windows 7 Home Basic (32/64-Bit)
+  * Microsoft Windows 7 Home Premium (32/64-Bit)
+  * Microsoft Windows 7 Professional (32/64-Bit)
+  * Microsoft Windows 7 Ultimate (32/64-Bit)
+
+### Hardware Requirements ###
+  * Processor 800 MHz or higher
+  * 512 MB available RAM
